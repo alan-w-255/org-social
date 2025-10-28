@@ -4,3 +4,14 @@
 #+FOLLOW: https://jane.com/social.org
 
 * Posts
+
+** hi
+:PROPERTIES:
+:ID: 2025-10-28T13:58:23+0800
+:LANG: 
+:TAGS: 
+:CLIENT: org-social.el
+:MOOD: 
+:END:
+
+hello org social
