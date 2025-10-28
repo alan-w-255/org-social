@@ -1,0 +1,6 @@
+#+TITLE: alan's journal
+#+NICK: alan
+#+FOLLOW: http://foo.org/social.org
+#+FOLLOW: https://jane.com/social.org
+
+* Posts
