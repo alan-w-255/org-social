@@ -1,14 +1,37 @@
 #+TITLE: alan's journal
 #+NICK: alan
-#+FOLLOW: http://foo.org/social.org
-#+FOLLOW: https://jane.com/social.org
+#+FOLLOW: andros https://andros.dev/static/social.org
+#+FOLLOW: rossa https://rossabaker.com/social.org
+#+FOLLOW: john https://johnhame.link/social.org
+#+FOLLOW: omid https://omidmash.de/social.org
+#+FOLLOW: eoin https://eoin.site/social.org
+#+FOLLOW: adsan https://adsan.dev/social.org
+#+FOLLOW: nickanderson https://cmdln.org/social.org
+#+FOLLOW: sachac https://sachachua.com/social.org
+#+FOLLOW: cherry https://cherryramatis.xyz/social.org
+#+FOLLOW: Leandro https://cybervalley.org/org-social-leandro/org-social.org
+#+FOLLOW: concavi https://concavi.net/social.org
+#+FOLLOW: alephoto85 https://www.alessandroliguori.it/social.org
+#+FOLLOW: shom https://shom.dev/social.org
+#+FOLLOW: https://comacero.eu/social.org
+#+FOLLOW: http://gemini.quietplace.xyz/~razzlom/social.org
+#+FOLLOW: https://notxor.nueva-actitud.org/social.org
+#+FOLLOW: https://codeberg.org/mester/CosasSociales/raw/branch/main/social.org
+#+FOLLOW: https://haiverin.scot/social.org
+#+FOLLOW: https://rosaelefanten.org/social.org
+
+#+GROUP: Emacs https://org-social-relay.andros.dev
+#+GROUP: Org Social https://org-social-relay.andros.dev
+#+GROUP: Org Mode https://org-social-relay.andros.dev
+#+GROUP: Elisp https://org-social-relay.andros.dev
+#+GROUP: Random https://org-social-relay.andros.dev
 
 * Posts
 
 ** hi
 :PROPERTIES:
 :ID: 2025-10-28T13:58:23+0800
-:LANG: 
+:LANG: en
 :TAGS: 
 :CLIENT: org-social.el
 :MOOD: 
