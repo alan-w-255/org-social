@@ -19,6 +19,8 @@
 #+FOLLOW: https://codeberg.org/mester/CosasSociales/raw/branch/main/social.org
 #+FOLLOW: https://haiverin.scot/social.org
 #+FOLLOW: https://rosaelefanten.org/social.org
+#+FOLLOW: https://org-mode.org-social.org/
+#+FOLLOW: https://planet-emacs.org-social.org/
 
 #+GROUP: Emacs https://org-social-relay.andros.dev
 #+GROUP: Org Social https://org-social-relay.andros.dev
